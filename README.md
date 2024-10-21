@@ -1,4 +1,4 @@
-# lg-video
+# rosetta
 
 (2023.05-)
 
