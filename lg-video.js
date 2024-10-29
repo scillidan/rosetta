@@ -1,15 +1,17 @@
 jQuery("#lg-video")
   .justifiedGallery({
-    lastRow: "hide",
     rowHeight: 180,
     margins: 1.5
+    lastRow: "hide",
+    captions: true,
   })
   .on("jg.complete", function () {
     window.lightGallery(
       document.getElementById("lg-video"),
       {
-        autoplayFirstVideo: false,
+        galleryId: "video",
         plugins: [lgThumbnail, lgVideo],
+        autoplayFirstVideo: false,
         addClass: 'lg-custom-thumbnails',
         download: false,
         allowMediaOverlap: false,
