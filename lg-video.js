@@ -1,8 +1,8 @@
 jQuery("#lg-video")
   .justifiedGallery({
     rowHeight: 180,
-    margins: 1.5
-    lastRow: "hide",
+    margins: 1.5,
+    lastRow: 'nojustify',
     captions: true,
   })
   .on("jg.complete", function () {
