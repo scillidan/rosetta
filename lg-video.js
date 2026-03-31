@@ -26,3 +26,28 @@ jQuery("#lg-video")
       }
     );
   });
+
+jQuery("#lg-video-disco")
+  .justifiedGallery({
+    rowHeight: 180,
+    margins: 1.5,
+    lastRow: 'nojustify',
+    captions: true,
+  })
+  .on("jg.complete", function () {
+    window.lightGallery(
+      document.getElementById("lg-video-disco"),
+      {
+        galleryId: "video-disco",
+        plugins: [lgThumbnail, lgVideo],
+        autoplayFirstVideo: false,
+        addClass: 'lg-custom-thumbnails',
+        download: false,
+        allowMediaOverlap: false,
+        pager: false,
+        mousewheel: true,
+        swipeToClose: false,
+        videojs: true,
+      }
+    );
+  });
