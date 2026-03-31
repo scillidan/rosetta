@@ -22,7 +22,6 @@ From `2023.05`. Applied some editing skills I learned when using the video edito
 
 - [Kdenlive](https://kdenlive.org)
 - [HandBrake](https://handbrake.fr/)
-- [SRT to VTT Command Line](https://github.com/nwoltman/srt-to-vtt-cl)
 - [lightGallery](https://www.lightgalleryjs.com/)
 
 ## Attribute
