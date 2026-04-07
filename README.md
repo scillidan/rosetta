@@ -22,6 +22,7 @@ From `2023.05`. Applied some editing skills I learned when using the video edito
 
 - [Kdenlive](https://kdenlive.org)
 - [HandBrake](https://handbrake.fr/)
+- [Sublime Text](https://www.sublimetext.com/) ([MarLant](https://github.com/retifrav/marlant))
 - [lightGallery](https://www.lightgalleryjs.com/)
 
 ## Attribute
