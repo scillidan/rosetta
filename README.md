@@ -1,7 +1,5 @@
 # rosetta
 
-[![](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://scillidan.github.io/rosetta)
-
 From `2023.05`. Applied some editing skills I learned when using the video editor, subtitle editor, dictionaries and translation tools etc.. In my experience, the biggest trouble is that the number of lines in subtitle files in different languages does not match. I don't want to find another tool or tools and restore certain files to their intermediate file form. So I may have re-translated the part of subtitle from the dictionary.
 
 ![](asset/rosetta.png)
