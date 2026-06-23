@@ -21,4 +21,4 @@ From `2023.05`. Applied some editing skills I learned when using the video edito
 
 lightGallery's license is [here](https://www.lightgalleryjs.com/license/).  
 The copyright of all film sample belongs to the publisher. I use the low-resolution clip as a reference. Their files are not in this repository.  
-This repository is dual-licensed: source code under the `MIT` License, and others is under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+This repository is dual-licensed: source code under the `MIT` License, and others is under `CC0 1.0`.
